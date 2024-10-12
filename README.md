@@ -253,7 +253,6 @@ Sure! Here are the questions for **Exercises 12 and 13** without the code:
 3. In the main method, call each overloaded version of the `printValue` method with appropriate hardcoded values.
 4. Ensure the output is clear and informative.
 
----
 
 ### Exercise 13: Combining Method Overloading with Conditional Logic
 
@@ -268,4 +267,15 @@ Sure! Here are the questions for **Exercises 12 and 13** without the code:
 4. Ensure that the output is clear and well-structured, providing context for each result. 
 
 
-
+## How to Run the Programs
+1. Ensure you have Java Development Kit (JDK) installed on your machine.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/faizan-ahmad5/Java-Programming-Exercises.git
+   ```
+3. Navigate to the project directory and open any Java file in your preferred IDE or text editor.
+4. Compile and run the programs using the following commands:
+   ```bash
+   javac TaskXX.java
+   java TaskXX
+   ```
