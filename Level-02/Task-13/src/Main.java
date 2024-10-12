@@ -39,7 +39,7 @@ public class Main {
         if (n <= 1) {
             return 1;
         } else {
-            return n * factorial(n - 1);
+            return n * getFactorial(n - 1);
         }
     }
 
@@ -49,6 +49,7 @@ public class Main {
         double discountedPrice = originalPrice - discountAmount;
         double tax = 0.05;
         double totalTax = discountedPrice * tax;
-        System.out.println("For double " + originalPrice + ": Total cost after discount = " + discountedPrice + ", Total tax = " + totalTax);
+        System.out.println("For double " + originalPrice + ": Total cost after discount = " + discountedPrice
+                + ", Total tax = " + totalTax);
     }
 }
