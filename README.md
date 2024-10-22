@@ -1,11 +1,12 @@
 # Java Programming Exercises
 
-This repository contains Java programming exercises divided into two levels: Level 1 and Level 2. The exercises cover various fundamental programming concepts.
+This repository contains a collection of Java programming exercises, structured into different difficulty levels along with a set of Mini Projects. These exercises cover essential programming concepts, providing a hands-on approach for mastering Java.
 
 ## Table of Contents
 - [Level 1 Tasks](#level-1-tasks)
 - [Level 2 Tasks](#level-2-tasks)
-
+- [Mini Projects](#mini-projects)
+  
 ## Level 1 Tasks
 
 ### Exercise 1: Setting Up Your First Java Program
@@ -241,7 +242,6 @@ This repository contains Java programming exercises divided into two levels: Lev
   ```
   Employee Name: [name], Age: [calculated age]
   ```
-Sure! Here are the questions for **Exercises 12 and 13** without the code:
 
 ### Exercise 12: Using Method Overloading for Input Types
 
@@ -257,7 +257,6 @@ Sure! Here are the questions for **Exercises 12 and 13** without the code:
 ### Exercise 13: Combining Method Overloading with Conditional Logic
 
 **Task**: Create a method named `calculateResult` that is overloaded to handle both integers and doubles. Each version of the method should perform different calculations based on the input type.
-
 #### Steps to Complete:
 1. Define the overloaded `calculateResult` method:
    - For the integer version, calculate and return both the sum of the integer with a predefined constant (e.g., 10) and the factorial of that integer.
@@ -266,6 +265,15 @@ Sure! Here are the questions for **Exercises 12 and 13** without the code:
 3. Call the double version of `calculateResult` with a sample double (e.g., 200.0) and print the results.
 4. Ensure that the output is clear and well-structured, providing context for each result. 
 
+## Mini Projects
+
+### Mini-Project 1: ATM Simulation Program
+#### Objective:
+Write a Java program that simulates a basic ATM machine. The program allows users to perform the following banking operations:
+- Check balance
+- Deposit money
+- Withdraw money
+- Exit the system
 
 ## How to Run the Programs
 1. Ensure you have Java Development Kit (JDK) installed on your machine.
